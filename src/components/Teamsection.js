@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function TeamSection() {
     const team = [
         { name: "Manu Prasad", role: "Marketing Head", img: "/images/team1.jpeg" },
-        { name: "Ajith", role: "Graphic Designer", img: "/images/team2.jpeg" },
+        { name: "Ajith", role: "C E O", img: "/images/team2.jpeg" },
         { name: "Muhammed Aes", role: "Hr", img: "/images/team3.jpeg" },
         { name: "Akhil", role: "Project Manager", img: "/images/team4.jpeg" },
     ];
